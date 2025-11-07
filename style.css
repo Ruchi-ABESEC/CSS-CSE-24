@@ -1,0 +1,27 @@
+.box1{
+    margin: 20px;
+    padding: 10px;
+    border: solid 4px black;
+    width: 400px;
+    height: 200px;
+    background: white;
+}
+.box2{
+    margin: 15px;
+    padding: 15px;
+    width: 320px;
+    height: 90px;
+    background: blue;
+}
+.box3{
+    margin: 10px;
+    padding: 10px;
+    width: 270px;
+    height: 40px;
+    background: yellow;
+}
+
+p{
+    text-align: center;
+    align-items: center;
+}
