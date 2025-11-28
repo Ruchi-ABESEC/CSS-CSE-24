@@ -1,0 +1,41 @@
+.container {
+    border: 2px solid black;
+    background-color: #fdfdfd;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+
+}
+
+.card {
+    width: 250px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgb(216, 214, 214);
+
+}
+
+.a1 {
+    color: #ccc;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
